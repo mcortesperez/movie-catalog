@@ -26,7 +26,3 @@ API utilizada
   - `GET /api-movies` — lista completa (se pagina en el cliente)
   - `GET /api-movies/:id` — detalle para el modal
   - `GET /api-movies/genre/:genre` — filtrado por género
-
-Notas rápidas
-- No hay dependencias ni build: basta servir los archivos estáticos.
-- Si quieres, puedo hacer un commit con este cambio o levantar el servidor para que lo revises en el navegador.
