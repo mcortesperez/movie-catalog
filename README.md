@@ -10,15 +10,8 @@ Estructura clave
 
 Ejecutarlo localmente
 - Con Live Server (VS Code): clic derecho en `index.html` → *Open with Live Server*.
-- Con Node (si tienes `npx`):
-```bash
-npx serve .
-```
-- Con Python:
-```bash
-python3 -m http.server 8080
-```
-Abrir `http://localhost:8080` en el navegador.
+
+Abrir `http://127.0.0.1:5500/` en el navegador.
 
 API utilizada
 - Devs API Hub — API Movies: https://devsapihub.com/api-movies
